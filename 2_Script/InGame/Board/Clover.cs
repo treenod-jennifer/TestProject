@@ -131,7 +131,7 @@ public class Clover : DecoBase, IHide
         if (bombEffect) return true;
 
         if (lifeCount <= 0) return true;
-        
+
         if(pangIndex != uniquePang)
         {
             pangIndex = uniquePang;
@@ -145,7 +145,7 @@ public class Clover : DecoBase, IHide
     
     public void SetHideDecoPang(int uniquePang = 0, BlockColorType pangColorType = BlockColorType.NONE)
     {
-        if (lifeCount <= 0) return;
+        if(lifeCount <= 0) return;
         
         if (pangIndex != uniquePang)
         {
@@ -223,7 +223,7 @@ public class Clover : DecoBase, IHide
             if (currentBlock.IsStopEventAtOutClover())
                 currentBlock.isStopEvent = true;
         }
-        
+
         isPang = false;
         ManagerBlock.instance.listClover.Remove(this);
         RemoveDeco();
