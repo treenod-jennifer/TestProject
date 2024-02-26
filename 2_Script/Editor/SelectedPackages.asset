@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bfa7cd1c0a7c514296411424b11b5de, type: 3}
+  m_Name: SelectedPackages
+  m_EditorClassIdentifier: 
+  selectedPackages:
+  - name: area/area_1_1_p
+    selected: 1
+  - name: area/area_1_1_r
+    selected: 1
+  - name: area/areacommon_1_1_p
+    selected: 0
+  - name: area/areacommon_1_1_r
+    selected: 0
+  - name: area/globalbehavior_1_p
+    selected: 0
+  - name: area_1_1_p
+    selected: 0
+  - name: area_1_1_r
+    selected: 0
+  - name: area_1_2_p
+    selected: 0
+  - name: area_1_2_r
+    selected: 0
+  - name: area_10_3_p
+    selected: 0
+  - name: area_10_3_r
+    selected: 0
+  - name: area_2_1_p
+    selected: 0
+  - name: area_2_1_r
+    selected: 0
+  - name: area_2_2_p
+    selected: 0
+  - name: area_2_2_r
+    selected: 0
+  - name: area_3_1_p
+    selected: 0
+  - name: area_3_1_r
+    selected: 0
+  - name: area_3_2_p
+    selected: 0
+  - name: area_3_2_r
+    selected: 0
+  - name: areacommon_1_1_p
+    selected: 0
+  - name: areacommon_1_1_r
+    selected: 0
+  - name: areacommon_10_1_p
+    selected: 0
+  - name: areacommon_2_1_p
+    selected: 0
+  - name: areacommon_2_1_r
+    selected: 0
+  - name: areacommon_3_1_p
+    selected: 0
+  - name: areacommon_3_1_r
+    selected: 0
+  - name: stamps_p
+    selected: 0
+  - name: stamps_r
+    selected: 0
+  - name: area/area_1_2_p
+    selected: 1
+  - name: area/area_1_2_r
+    selected: 0
+  - name: area/area_10_3_p
+    selected: 0
+  - name: area/area_10_3_r
+    selected: 0
+  - name: area/area_2_1_p
+    selected: 0
+  - name: area/area_2_1_r
+    selected: 0
+  - name: area/area_2_2_p
+    selected: 0
+  - name: area/area_2_2_r
+    selected: 0
+  - name: area/area_3_1_p
+    selected: 0
+  - name: area/area_3_1_r
+    selected: 0
+  - name: area/area_3_2_p
+    selected: 0
+  - name: area/area_3_2_r
+    selected: 0
+  - name: area/areacommon_10_1_p
+    selected: 0
+  - name: area/areacommon_2_1_p
+    selected: 0
+  - name: area/areacommon_2_1_r
+    selected: 0
+  - name: area/areacommon_3_1_p
+    selected: 0
+  - name: area/areacommon_3_1_r
+    selected: 0
+  - name: area/stamps_p
+    selected: 0
+  - name: area/stamps_r
+    selected: 0
+  - name: area/sdksampletool_p
+    selected: 0
+  - name: a_1_1_p
+    selected: 1
+  - name: a_1_1_r
+    selected: 1
+  - name: a_1_2_p
+    selected: 1
+  - name: a_1_2_r
+    selected: 1
+  - name: a_1_3_r
+    selected: 1
+  - name: a_2_1_p
+    selected: 1
+  - name: a_2_1_r
+    selected: 1
+  - name: a_2_2_p
+    selected: 1
+  - name: a_2_2_r
+    selected: 1
+  - name: a_3_1_p
+    selected: 1
+  - name: a_3_1_r
+    selected: 0
+  - name: a_3_2_p
+    selected: 1
+  - name: a_3_2_r
+    selected: 0
+  - name: ac_1_1_p
+    selected: 1
+  - name: ac_1_1_r
+    selected: 1
+  - name: ac_2_1_p
+    selected: 1
+  - name: ac_2_1_r
+    selected: 1
+  - name: ac_3_1_p
+    selected: 1
+  - name: ac_3_1_r
+    selected: 1
+  - name: event_1
+    selected: 1
+  - name: event_1_r
+    selected: 0
+  - name: g_1_p
+    selected: 1
+  - name: gc_1_r
+    selected: 1
+  - name: h_1_4
+    selected: 1
+  - name: h_2_2
+    selected: 1
+  - name: h_2_3
+    selected: 1
+  - name: h_2_4
+    selected: 1
+  - name: h_3_2
+    selected: 1
+  - name: h_4_1
+    selected: 1
+  - name: h_5_2
+    selected: 1
+  - name: s_1
+    selected: 1
+  - name: s_2
+    selected: 1
+  - name: a_2_3_p
+    selected: 1
+  - name: a_2_3_r
+    selected: 1
+  - name: a_3_3_p
+    selected: 1
